@@ -21,7 +21,7 @@ https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset/data
 ### Description of Files
 'healthcare-dataset-stroke-data.csv' - Contains 10 features for predicting strokes.
 
-'Predicting Strokes.ipynb' - this file contains the code that compares the different classifying models.
+'Predicting_Strokes.ipynb' - this file contains the code that compares the different classifying models.
 
 
 ### Methodology
